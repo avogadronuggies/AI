@@ -72,3 +72,4 @@ operators = [
 
 planner = STRIPSPlanner(init_state, goal_state, operators)
 planner.plan_steps()
+

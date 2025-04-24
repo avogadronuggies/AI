@@ -31,3 +31,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+# Sample Input:
+# Burglary? (yes/no): yes
+# Earthquake? (yes/no): no
+# Alarm? (yes/no): yes
+# John called? (yes/no): yes
+# Mary called? (yes/no): no
